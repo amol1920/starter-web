@@ -18,3 +18,7 @@ Sample website with plenty of files for demos
 ## Conclusion
 
 Sample conclusion demo
+
+## Copyright
+
+Sample copyright

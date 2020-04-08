@@ -11,6 +11,11 @@ Sample Intro in readme file
 
 Sample deployment in readme file
 
+## How to contribute
+
+Sample HTC
+
+
 ## Purpose
 
 Sample website with plenty of files for demos
